@@ -1,8 +1,8 @@
-### 2022 SUMMER PROJECT 🥽
+# 2022 SUMMER PROJECT 🥽
 
-## 리액트로 아주아주 간단한 투두리스트 만들기
+리액트로 아주아주 간단한 투두리스트 만들기
 
-# 작업기간 : 7월 3일 ~ 7월 15일
+작업기간 : 7월 3일 ~ 7월 15일
 
 🌊 **useEffect, useState를 활용하여 todo add와 edit 기능 구현**
 ![image](https://user-images.githubusercontent.com/85864699/179234223-801802c6-57bf-40d7-97f6-fbbe3e2b8e92.png)
