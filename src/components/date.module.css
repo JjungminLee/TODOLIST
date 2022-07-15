@@ -1,0 +1,24 @@
+.background{
+    
+    padding-top: 48px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 24px;
+    
+}
+
+.title{
+        
+    margin:0; 
+    font-size:36px;
+    color: #343a40 ;
+}
+
+.taskLeft{
+        
+    color:#4059e6;
+    font-size:18px;
+    margin-top:40px;
+    font-weight:bold;
+
+}

@@ -1,0 +1,35 @@
+.background{
+    
+    margin-top:20px;
+    margin-right:30px;
+    margin-bottom:10px;
+    margin-left:20px;
+    
+}
+
+.input{
+    width:300px;
+    height:30px;
+    border-top:none;
+    border-left:none;
+    border-right: none;
+    border-bottom: 3px solid black;
+    outline:0;
+    
+}
+
+.buttonImg{
+    width:60px;
+    height:60px;
+    margin-left: 30px;
+    
+    
+   
+}
+
+.button{
+    background-color:transparent;
+    
+    border:0;
+    outline: 0;
+}
